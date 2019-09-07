@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{9B9287A4-DC6B-4C87-B7D5-A961B48A3930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9287A4-DC6B-4C87-B7D5-A961B48A3930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9287A4-DC6B-4C87-B7D5-A961B48A3930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9287A4-DC6B-4C87-B7D5-A961B48A3930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9287A4-DC6B-4C87-B7D5-A961B48A3930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663AFD94-3987-4A75-AA8A-EF476929BB68}
+	EndGlobalSection
+EndGlobal
